@@ -1,0 +1,33 @@
+EventId,EventTemplate,Occurrences
+b302d206,COMMAND /sbin/useradd <*>,591
+c06be4f2,COMMAND <*> <*> <*> <*> <*>,9991
+c6bcadb9,COMMAND <*> <*> <*> <*> <*> <*>,169
+3e78d9f0,COMMAND /sbin/usermod -c 834/F/*SLAASB/IBM/SLA ASB TEAM LPM OS User ID <*>,1000
+80679883,"COMMAND /sbin/usermod -G adwdfeqf adwdfnco adwdnbsa adwdfamb adwdfamx adwdfflr adwdfbcm adwdfhtz adwdfczf adwdfdow adwdfvf adwdfanz adwdpdf""",1
+25f2c721,"COMMAND /sbin/usermod -G adwdfeqf adwdfnco adwdnbsa adwdfamb adwdfamx adwdfflr adwdfbcm adwdfhtz adwdfczf adwdfdow adwdfvf adwdfanz adwdgds adwdfgds adwdpdf""",1
+7d342da2,"COMMAND /sbin/usermod -G adwdfeqf adwdfnco adwdnbsa adwdfamb adwdfamx adwdfflr adwdfbcm adwdfhtz adwdfczf adwdfdow adwdfvf adwdfanz adwdfpna adwdfnai adwdfgds adwdfisn bdbdfamb bdbdfamx bdbdfdow bdbdfhtz bdbdfisn bdbdnbsa adwdpdf""",1
+c4bc24b5,"COMMAND /sbin/usermod -G adwdfeqf adwdfnco adwdnbsa adwdfamb adwdfamx adwdfflr adwdfbcm adwdfhtz adwdfczf adwdfdow adwdfvf adwdfanz adwdfpna adwdfnai adwdfgds adwdfisn bdbdfamx bdbdfisn bdbdfamb bdbdfhtz bdbdfdow bdbdnbsa bdbdfanz bdbdfeqf adwdpdf""",1
+dc427648,"COMMAND /sbin/usermod -G gsmrtadm acddfamx adwdfamb adwdfamx adwdfanz adwdfbcm adwdfczf adwdfdow adwdfeqf adwdfflr adwdfgds adwdfhtz adwdfisn adwdfnai adwdfnco adwdfpna adwdfvf adwdnbsa bdbdfamb bdbdfamx bdbdfanz bdbdfdow bdbdfeqf bdbdfflr bdbdfhtz bdbdfisn bdbdnbsa cantum""",1
+8b5781d7,COMMAND /sbin/usermod -G <*>,12
+2b6ac1c8,COMMAND /usr/sbin/usermod -U BB0RSUAA,1
+010c6de3,COMMAND /usr/sbin/usermod -c <*> <*>,9
+55913fa6,COMMAND /sbin/useradd -G <*> rrajagopalan,2
+7c0136c1,COMMAND /sbin/usermod <*> <*> <*>,252
+456a2da7,COMMAND /usr/sbin/useradd -g users <*>,10
+64bd4eab,COMMAND /usr/sbin/usermod -c 897/I/2A2557//Cantu.Michael S./cantum@us.ibm.com -G db2group gscognos,1
+5edf1163,COMMAND /usr/sbin/useradd -g users -c 744/I/01598O//Gujuluva Janarthanan.Swathy swjanart,2
+29bfa9ca,COMMAND /sbin/useradd -m -g users vengatr1 -g users,1
+6c592086,COMMAND /sbin/usermod -c 897/I/2A2557//Cantu.Michael S./cantum@us.ibm.com -G bdbdfeqf bdbdeqf,1
+66c7f887,COMMAND /sbin/usermod -c 897/I/2A2557//Cantu.Michael S./cantum@us.ibm.com -G bdbdfisn bdbdisn,1
+04eea491,COMMAND /sbin/usermod -c 744/I/0312C6/IBM/Sharone C R Sujithkumar ssharone,18
+dc39c14c,COMMAND /sbin/usermod -c 631/I/093650/IBM/PINTO DIAS JUNIOR ROBERTSON robertson,20
+ce2b55cb,COMMAND /usr/sbin/usermod <*> <*> <*> <*> <*> <*> <*>,7
+2186c295,COMMAND /sbin/usermod -c <*> <*> <*> <*> <*> <*>,37
+1c92c216,"COMMAND /usr/sbin/usermod -c 760/I/BB12BS//Honda.Hiroaki -G dajp users -s /bin/bash BB12BS760""",2
+bef8b361,COMMAND /usr/sbin/usermod -c 672/I/077270//Sun.Jun Hong -G users -s /bin/bash 077270672,2
+c376ccc6,COMMAND /sbin/usermod -c 744/S/*SLAPS1/IBM/SLA Project GTS Labs Service ID ossec,782
+fa4fd55b,COMMAND /sbin/usermod -c 744/S/*IDOLXS/IBM/IAMaaS DevOps Owned Infra System Ids <*>,2
+bb27228b,COMMAND /sbin/usermod sftpsesdr -c 744/S/*SLAPF1/IBM/SLA Project GTS Labs Functional ID,1
+bec2dfc0,COMMAND /sbin/usermod dasusr1 -c 744/S/*SLAPS1/IBM/SLA Project GTS Labs Service ID,1
+3146a245,COMMAND /sbin/useradd <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,6
+4a87abdd,"COMMAND /sbin/usermod <*> <*> <*> <*> adwdfamb adwdfamx <*> adwdfbcm <*> <*> <*> <*> <*> <*> <*> <*> <*> adwdpdf""",2

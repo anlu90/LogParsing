@@ -1,0 +1,2 @@
+LineId,Month,Date,Time,sudo,User,TTY,PWD,User_type,Command,EventId,EventTemplate,ParameterList
+1,<85>Mar,20,00:41:08,prodjpcws02 sudo,iamadmin,TTY=unknown,PWD=/home/iamadmin,USER=root,COMMAND=/usr/sbin/usermod -c 760/I/BB12BS//Honda.Hiroaki/Hiroaki.Honda@ibm.com BB12BS760,387c37c6,COMMAND /usr/sbin/usermod -c 760/I/BB12BS//Honda.Hiroaki/Hiroaki.Honda@ibm.com BB12BS760,[]

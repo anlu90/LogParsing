@@ -1,0 +1,82 @@
+EventId,EventTemplate,Occurrences
+4b37898a,command usr sbin usermod -c <*> i bb12bs honda.hiroaki hiroaki.honda@ibm.com bb12bs<*>,2
+1a417706,command usr sbin useradd -g users -c <*> i 0615c1 ansari.sarfaraj sarfaans,2
+4fb21c8a,command sbin <*> -a -g <*>_sla_super_adm_lcl rrajagopalan,4
+13ec85ec,command usr sbin useradd -m -g users rbkudari,2
+08f71f0b,command sbin useradd -g <*> rrajagopalan,2
+19f43a55,command sbin useradd -a -g <*>_sla_ops_swat_lcl rrajagopalan,1
+e5b40c9f,command sbin usermod -e <*>-<*>-<*> <*>,250
+92597bcc,command sbin usermod -a -g <*>_sla_super_adm_lcl <*>,9907
+b2f9868a,command usr sbin usermod -a -g sa <*>,25
+0bc8844c,command usr sbin useradd -g users -c <*> i 06134z langde.pratik prlangde,3
+f6174686,"command usr sbin usermod -g db2dba db2adm1 db2group adwdba gsmrtadm cantum""",1
+e078b663,"command usr sbin usermod -g db2adm1 db2dba db2group cantum""",1
+decec5fa,command usr sbin usermod -c <*> i 2a2557 cantu.michael s. cantum@us.ibm.com -g db2group gscognos,1
+6f08b9b9,command sbin usermod -g <*>,12
+63b39126,command usr sbin useradd -g users -c <*> i 0613a8 sairam.ananth gasairam,3
+11af0932,command usr sbin useradd -g users -c <*> i 01598o gujuluva janarthanan.swathy swjanart,2
+d687bad6,"command usr sbin usermod -c <*> i bb12bs honda.hiroaki -g dajp users -s bin bash bb12bs760""",2
+f4b7c250,command usr sbin useradd -g users <*>,10
+d5dd3bd3,command usr sbin usermod -g users -g users ssinga<*>,2
+e51324be,command usr sbin usermod -c <*> i <*> ohkawa.naoki -g users -s bin bash <*>,2
+23f83b62,command usr sbin usermod -c <*> i <*> ohkawa.naoki oka8@jp.ibm.com <*>,2
+45c08e46,command usr sbin usermod -c <*> i <*> takeshima.hiroaki e34866@jp.ibm.com 34866aa,1
+830ce276,command usr sbin usermod -c jpm i <*> ishikura.katsunobu eb72029@jp.ibm.com 900671jpm,2
+4f271324,command usr sbin useradd -g users -c <*> i 0613a9 kola.sai saikola,2
+89ba7d6d,command sbin useradd viswanair,590
+dd513c76,command usr sbin useradd -g users -c <*> i 02056l das.ayyappa ayyapp<*>,1
+8b991619,command usr sbin usermod -c jpm i <*> ishikura.katsunobu -g users -s bin bash 900671jpm,2
+c2cbcbd4,command usr sbin useradd -g users -c <*> i 02335t mallidi.mounika momallid,1
+585712aa,command usr sbin useradd -g users -c <*> s *imida ibm imi_na_dynamic_automation_ids rmiipat<*>,1
+b2ebc0d8,"command sbin usermod -g gsmrtadm acddfamx adwdfamb adwdfamx adwdfanz adwdfbcm adwdfczf adwdfdow adwdfeqf adwdfflr adwdfgds adwdfhtz adwdfisn adwdfnai adwdfnco adwdfpna adwdfvf adwdnbsa bdbdfamb bdbdfamx bdbdfanz bdbdfdow bdbdfeqf bdbdfflr bdbdfhtz bdbdfisn bdbdnbsa cantum""",1
+da4eb44a,command sbin useradd -m -g users vengatr1 -g users,1
+b67e1c69,command usr sbin useradd -g users -c <*> i <*> mathew.thomas thomamat,3
+3e0e57f9,command sbin useradd -m -g osadmin mansivan,1
+184c51d1,command usr sbin useradd -m -g db2dba rsingltn,2
+b5163254,command usr sbin useradd -g users -c <*> i 06134t chakraborty.sharmila sharmich,1
+a5a3b326,command usr sbin usermod -c <*> i <*> sun.jun hong -g users -s bin bash <*>,2
+1f9d5db0,command sbin usermod -c <*> i z17134 ibm ben taher ghazi ghazib,25
+c3919e5a,command sbin usermod -c <*> i <*> ibm passarelli daniel adrian dapasa,32
+9f7ad451,command sbin usermod -c <*> i <*> ibm li qiang liqiangm,4
+03aa6acc,command usr sbin useradd -g users -c <*> i 05257s gali.revan revagali,2
+1e487f02,command sbin usermod -c <*> s *slaps1 ibm sla project gts labs service id ossec,782
+466228d0,command sbin usermod -c <*> s *idolxs ibm iamaas devops owned infra system ids <*>,2
+bc7b7498,command sbin usermod -c <*> i <*> ibm pinto dias junior.robertson - robertson@br.ibm.com robertson,1
+8571b670,command sbin usermod -c <*> i zz00k6 ibm radnai balazs adam bradnai,2
+a395a567,command sbin usermod -c <*> i 01302q ibm rajasekaran manikandan manikandan,1
+f4cb23ce,command sbin usermod -c <*> i zz00b9 ibm banaruc.serghei - serghei@sg.ibm.com serghei,1
+ccfb6f73,command sbin usermod -c <*> i 01021m ibm karuppasamy antony sankar antkarup,1
+4c9b75f5,command sbin usermod sftpsesdr -c <*> s *slapf1 ibm sla project gts labs functional id,1
+fd98d737,command sbin usermod -g bdbdfanz bdbdanz,1
+8347249c,command sbin usermod -c <*> i 2a2557 cantu.michael s. cantum@us.ibm.com -g bdbdfeqf bdbdeqf,1
+dc459c15,command sbin usermod -g bdbdnbsa bdbnbsa,1
+03c64a73,command usr sbin useradd -g users -c <*> i 0613b7 priya.kongara konpriya,3
+0e7a32ef,"command sbin usermod -g adwdfeqf adwdfnco adwdnbsa adwdfamb adwdfamx adwdfflr adwdfbcm adwdfhtz adwdfczf adwdfdow adwdfvf adwdfanz adwdfpna adwdfnai adwdfgds adwdfisn bdbdfamx bdbdfisn bdbdfamb bdbdfhtz bdbdfdow bdbdnbsa bdbdfanz bdbdfeqf adwdpdf""",1
+781c78c1,"command sbin usermod -g adwdfeqf adwdfnco adwdnbsa adwdfamb adwdfamx adwdfflr adwdfbcm adwdfhtz adwdfczf adwdfdow adwdfvf adwdfanz adwdfpna adwdfnai adwdfgds adwdfisn bdbdfamb bdbdfamx bdbdfdow bdbdfhtz bdbdfisn bdbdnbsa adwdpdf""",1
+4e0ff9c2,command usr sbin usermod -g users -g eus hgouduna,1
+4ba46db4,command sbin usermod -c <*> i 2a6730 ibm mitchell brian mitchelb,30
+cf577652,command sbin usermod -c <*> i 2a2557 cantu.michael s. cantum@us.ibm.com -g bdbdfisn bdbdisn,1
+950c5b14,command usr sbin useradd -g users -c <*> i 04731k reddy.vignan vignredd,6
+6426b602,command sbin usermod asakhno -c <*> i c-js52 iba sakhno.alex - asakhno@us.ibm.com,1
+15c08e04,"command sbin usermod -g adwdfeqf adwdfnco adwdnbsa adwdfamb adwdfamx adwdfflr adwdfbcm adwdfhtz adwdfczf adwdfdow adwdfvf adwdfanz adwdfpna adwdfnai adwdfgds adwdfisn adwdpdf""",1
+8f72b1f9,command usr sbin useradd -g users -c <*> i 06134v sinha.shubhra ssinha<*>,3
+b0308dd6,command sbin usermod rkidun -c <*> i c-l8br ibm kidun.ruslan - rkidun@us.ibm.com,4
+1838a1bd,command sbin usermod -c <*> i 0312c6 ibm sharone c r sujithkumar ssharone,18
+9b542bf4,command sbin usermod dasusr1 -c <*> s *slaps1 ibm sla project gts labs service id,1
+6754a23b,command sbin usermod -c <*> i <*> ibm correa do nascimento luiz gustavo luizn,36
+8e648414,command sbin usermod -c <*> i avnla3 ibm pee jiun hui jiunp,68
+37cc2bd7,command sbin useradd sftpsesdr -s bin bash -c <*> s *slapf1 ibm sla project gts labs functional id,1
+99df6e72,"command sbin usermod -g adwdfeqf adwdfnco adwdnbsa adwdfamb adwdfamx adwdfflr adwdfbcm adwdfhtz adwdfczf adwdfdow adwdfvf adwdfanz adwdgds adwdfgds adwdpdf""",1
+7c71b792,command sbin useradd -m -g users mpenta<*>,1
+c27654fe,command sbin usermod -c <*> i <*> ibm pinto dias junior robertson robertson,20
+d12df078,command sbin usermod -c <*> i 1a8836 ibm mullen cindy cmulle<*>,9
+10a2801b,command sbin usermod -c <*> i 3a7443 ibm haney michael mhaney,3
+082fe0eb,command usr sbin usermod -c <*> i bb11nb fujie.kazuki kazuki.fujie@ibm.com bb11nb<*>,2
+62fcf532,"command sbin usermod -c <*> i 2a2557 cantu.michael s. cantum@us.ibm.com -g adwdfamb adwdfamx adwdfanz adwdfbcm adwdfczf adwdfdow adwdfeqf adwdfflr adwdfhtz adwdfnco adwdfvf adwdgds adwdnbsa adwdpdf""",1
+9bcf5d94,command sbin useradd -c <*> f *slapf1 ibm sla project gts labs functional id -g bpmdasadm dasusr<*>,5
+fe178fe1,command sbin useradd sasauto,1
+93742a30,command sbin usermod -a -g automate sasauto,1
+2ba7938e,command sbin usermod -c <*> f *slaasb ibm sla asb team lpm os user id <*>,1000
+e8facca0,"command sbin usermod -g adwdfeqf adwdfnco adwdnbsa adwdfamb adwdfamx adwdfflr adwdfbcm adwdfhtz adwdfczf adwdfdow adwdfvf adwdfanz adwdpdf""",1
+bdd8269a,command usr sbin usermod -u bb0rsuaa,1
+38a7d684,command usr sbin usermod -c <*> i bb11nb fujie.kazuki -g users -s bin bash bb11nb<*>,2
